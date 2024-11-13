@@ -57,6 +57,8 @@ A [more detailed course plan](https://github.com/michiganrobotics/rob501/tree/ma
 ## License
 All code is licensed under the [GNU General Public License v3.0](https://github.com/michiganrobotics/rob101/blob/main/LICENSE).
 
+michigan robotics website https://robotics.umich.edu/academics/courses/online-courses/
+
 All other content, including textbooks, homeworks, and video, is licensed under the [Creative Commons Attribution-NonCommericial 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## For more
